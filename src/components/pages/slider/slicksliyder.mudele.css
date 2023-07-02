@@ -1,0 +1,21 @@
+
+.slick-prev:before, .slick-next:before  {
+    color: #006bff;
+    font-size: 45px;
+    width: 40px;
+    height: 40px;
+}
+.slick-prev{
+    left: -50px;
+}
+.slick-list{
+    margin: 8vw;
+}
+.lsick- {
+    font-size: 20px;
+}
+.slider{
+    width: 100%;
+    height:75vw;
+    padding-bottom: 40px;
+}
